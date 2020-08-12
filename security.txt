@@ -1,0 +1,3 @@
+Contact: mailto:developercynthia@gmail.com
+Acknowledgments: https://publishct.github.io/OPENcenter/thanks.html
+Preferred-Languages: en, es
